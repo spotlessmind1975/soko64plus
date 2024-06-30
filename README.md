@@ -31,7 +31,8 @@ In addition to downloading the already compiled binaries, it is obviously possib
 
 ## LICENSE
 
-Original **SOKO64** source for Commodore 64 by Emanuele Feronato, and **SOKO64+** has been ported to other platforms by Marco Spedaletti.
+Original **SOKO64** source for Commodore 64 by Emanuele Feronato.
+Actual **SOKO64+** source for all platforms by Marco Spedaletti.
 
 Official binary distribution of **SOKO64** at:
 https://triqui.itch.io/soko64
