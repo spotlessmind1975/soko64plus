@@ -7,7 +7,7 @@ Sokoban is a famous puzzle game designed in 1981 by Hiroyuki Imabayashi, and fir
 
 **[SOKO64](https://triqui.itch.io/soko64)** is the original version written by [Emanuele Feronato](https://www.emanueleferonato.com/) in [ugBASIC](https://ugbasic.iwashere.eu) and it was developed for the Commodore 64 target (`c64`). It includes **64 8x8 tricky levels** by David Skinner. All levels are unlocked from the beginning, for you to try them all. Solved levels will be marked with green.
 
-**[SOKO64+](https://spotlessmin.itch.io/soko64plus)**, instead, has been refactorized starting from that source code by Marco Spedaletti, in order to run on (almost) every ugBASIC's targets, with just **a single source code**.
+**[SOKO64+](https://spotlessmin.itch.io/soko64plus)**, is a new version of the same game by Marco Spedaletti: starting from that source code , in order to run on many ugBASIC's targets, with just **a single source code**.
 
 [Click here](https://spotlessmin.itch.io/soko64plus) to download the executables for the various home computers:
   * **AMSTRAD CPC 664** [DSK format] ([more info](docs/instructions-cpc.md))
@@ -31,15 +31,15 @@ In addition to downloading the already compiled binaries, it is obviously possib
 
 ## LICENSE
 
-Original SOKO64 source for Commodore 64 by Emanuele Feronato, and SOKO64+ has been ported to other platforms by Marco Spedaletti.
+Original **SOKO64** source for Commodore 64 by Emanuele Feronato, and **SOKO64+** has been ported to other platforms by Marco Spedaletti.
 
-Official binary distribution of SOKO64 at:
+Official binary distribution of **SOKO64** at:
 https://triqui.itch.io/soko64
 
-Official binary distribution of SOKO64+ at:
+Official binary distribution of **SOKO64+** at:
 https://spotlessmind1975.itch.io/soko64plus
 
-SOKO64+ is licensed under the Apache License, Version 2.0 (the "License");
+**SOKO64+** is licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
 
