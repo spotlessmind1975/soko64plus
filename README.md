@@ -7,9 +7,9 @@ Sokoban is a famous puzzle game designed in 1981 by Hiroyuki Imabayashi, and fir
 
 **[SOKO64](https://triqui.itch.io/soko64)** is the original version written by [Emanuele Feronato](https://www.emanueleferonato.com/) in [ugBASIC](https://ugbasic.iwashere.eu) and it was developed for the Commodore 64 target (`c64`). It includes **64 8x8 tricky levels** by David Skinner. All levels are unlocked from the beginning, for you to try them all. Solved levels will be marked with green.
 
-**[SOKO64+](https://spotlessmin.itch.io/soko64plus)** is a new version of the same game by Marco Spedaletti: starting from that source code , in order to run on many ugBASIC's targets, with just **a single source code**.
+**[SOKO64+](https://spotlessmind1975.itch.io/soko64plus)** is a new version of the same game by Marco Spedaletti: starting from that source code , in order to run on many ugBASIC's targets, with just **a single source code**.
 
-[Click here](https://spotlessmin.itch.io/soko64plus) to download the executables for the various home computers:
+[Click here](https://spotlessmind1975.itch.io/soko64plus) to download the executables for the various home computers:
   * **AMSTRAD CPC 664** [DSK format] ([more info](docs/instructions-cpc.md))
   * **ATARI 400/800** [XEX or ATR format] ([more info](docs/instructions-atari.md))
   * **ATARI XL/XEGS** [XEX or ATR format] ([more info](docs/instructions-atarixl.md))
