@@ -1,9 +1,9 @@
 # SOKO64+
 A sokoban for (many) retrocomputers
 
-![copertina](pictures/copertina.jpg)
+**[![copertina](pictures/copertina.jpg)](https://spotlessmind1975.itch.io/soko64plus)**
 
-Sokoban is a famous puzzle game designed in 1981 by Hiroyuki Imabayashi, and first published in December 1982. You have to place all crates over the targets, by pushing them. 
+**[Sokoban](https://spotlessmind1975.itch.io/soko64plus)** is a famous puzzle game designed in 1981 by Hiroyuki Imabayashi, and first published in December 1982. You have to place all crates over the targets, by pushing them. 
 
 **[SOKO64](https://triqui.itch.io/soko64)** is the original version written by [Emanuele Feronato](https://www.emanueleferonato.com/) in [ugBASIC](https://ugbasic.iwashere.eu) and it was developed for the Commodore 64 target (`c64`). It includes **64 8x8 tricky levels** by David Skinner. All levels are unlocked from the beginning, for you to try them all. Solved levels will be marked with green.
 
