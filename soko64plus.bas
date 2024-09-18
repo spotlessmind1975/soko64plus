@@ -344,8 +344,8 @@ CONST fire = 5
 ' in the end, the space actually occupied will only be given by one 
 ' of the two alternatives.
 
-CONST authorShip = IF( COLUMNS > 30, "2022 Emanuele Feronato", "2022 E.Feronato" )
-CONST authorShip2 = IF( COLUMNS > 30, "2024 Marco Spedaletti", "2024 M.Spedaletti" )
+CONST authorShip = IF( COLUMNS > 30, "2022 Emanuele Feronato", IF( COLUMNS > 16, "2022 E.Feronato", "2022 Feronato" ) )
+CONST authorShip2 = IF( COLUMNS > 30, "2024 Marco Spedaletti", IF( COLUMNS > 16, "2024 M.Spedaletti", "2024 Spedaletti" ) )
 
 ' Let's now calculate what indication to give the user, based on the 
 ' availability or otherwise of the joysticks.
@@ -464,7 +464,7 @@ PROCEDURE readDirection ON JOYSTICK AVAILABLE
 	
 		' wait for joystick stick returns
 		' to the original position.
-		WHILE JUP(0):WEND
+		'WHILE JUP(0):WEND
 		
 		' Direction read is UP
 		direction = up
@@ -1225,6 +1225,7 @@ levelCompleted:
 		ENDIF
 		
 	LOOP
+
 
 
 
